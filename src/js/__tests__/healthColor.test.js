@@ -1,4 +1,4 @@
-import healthColor from '../legend';
+import healthColor from '../healthColor';
 
 test('should healthColor to be green', () => {
   const unit = {
